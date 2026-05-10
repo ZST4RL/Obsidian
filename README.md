@@ -1,0 +1,2 @@
+# Obsidian
+my obsidian stuff
