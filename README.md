@@ -1,2 +1,0 @@
-# Obsidian
-my obsidian stuff
