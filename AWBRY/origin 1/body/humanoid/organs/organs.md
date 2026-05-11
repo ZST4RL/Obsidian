@@ -10,4 +10,4 @@ NO
 
 A [[brain]], OMG HOW COULD I FORGET
 
-so i remember a thing called "cat ???" which would change the questions based on which were answered right and which were wrong
+so i remember a thing called "cat ???" which would change the questions based on which were answered right and which were wrong, i will elaborate more on this in the "brain" category 
