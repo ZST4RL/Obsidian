@@ -5,13 +5,20 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "",
+      "query": "tag:#special  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 9699436
+      }
+    },
+    {
+      "query": "tag:#unfinished  ",
+      "color": {
+        "a": 1,
+        "rgb": 9699328
       }
     }
   ],

@@ -13,22 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my plan for her.md",
+                "file": "origin/origin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "my plan for her"
+              "title": "origin"
             }
           }
         ]
       },
       {
-        "id": "6040520cab970f47",
+        "id": "1065ac30841ccfe3",
         "type": "tabs",
         "children": [
           {
-            "id": "2f2dc7e5023f12dd",
+            "id": "fffa79984b2ed780",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "my plan for her.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for my plan for her"
             }
           },
           {
@@ -128,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "my plan for her.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from my plan for her"
             }
           },
           {
@@ -170,12 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "my plan for her.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of my plan for her"
             }
           }
         ]
@@ -197,8 +200,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f2dc7e5023f12dd",
+  "active": "fffa79984b2ed780",
   "lastOpenFiles": [
-    "my plan for her.md"
+    "origin/origin.md",
+    "origin/body/NAMES.md",
+    "origin/body/Untitled",
+    "origin/body/humanoid/organs",
+    "origin/body/humanoid/legz",
+    "origin/body/humanoid/handz",
+    "origin/the assistant/wants",
+    "origin/requirements/building materials",
+    "origin/body/transformer",
+    "origin/body/train",
+    "origin/body/spider",
+    "origin/body/humanoid",
+    "README.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
