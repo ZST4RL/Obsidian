@@ -1,1 +1,1 @@
-theres many stuff i require, like first, i think a [[generator]], then for SURE a [[body]], and a brain
+theres many stuff i require, like first, i think a [[generator]], then for SURE a [[body]], and a [[brain]], but that’s just the main stuff
