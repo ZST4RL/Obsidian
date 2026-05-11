@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "origin/origin.md",
+                "file": "AWBRY/origin 1/body/humanoid/organs/organs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "origin"
+              "title": "organs"
             }
           }
         ]
@@ -200,20 +200,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fffa79984b2ed780",
+  "active": "a6721f85556a9760",
   "lastOpenFiles": [
-    "origin/origin.md",
-    "origin/body/NAMES.md",
+    "AWBRY/origin 1/body/humanoid/humanoid.md",
+    "AWBRY/origin 1/body/humanoid/organs/organs.md",
+    "AWBRY/required stuff.md",
+    "AWBRY/origin 1/body/body.md",
+    "AWBRY/origin 1/body/NAMES.md",
+    "AWBRY/origin 1/Origin.md",
+    "AWBRY/origin 1/origin.md",
+    "AWBRY/Origin",
+    "AWBRY",
     "origin/body/Untitled",
-    "origin/body/humanoid/organs",
-    "origin/body/humanoid/legz",
-    "origin/body/humanoid/handz",
-    "origin/the assistant/wants",
-    "origin/requirements/building materials",
-    "origin/body/transformer",
-    "origin/body/train",
-    "origin/body/spider",
-    "origin/body/humanoid",
+    "AWBRY/origin 1/body/humanoid/organs",
+    "AWBRY/origin 1/body/humanoid/legz",
+    "AWBRY/origin 1/body/humanoid/handz",
+    "AWBRY/origin 1/the assistant/wants",
+    "AWBRY/origin 1/requirements/building materials",
+    "AWBRY/origin 1/body/transformer",
+    "AWBRY/origin 1/body/train",
     "README.md",
     "conflict-files-obsidian-git.md"
   ]
