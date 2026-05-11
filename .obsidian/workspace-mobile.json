@@ -11,10 +11,24 @@
             "id": "5e9d9cd71018eb37",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AWBRY/Origin.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Origin"
+            }
+          },
+          {
+            "id": "7a90badf95bc8f63",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -164,6 +178,8 @@
   },
   "active": "5e9d9cd71018eb37",
   "lastOpenFiles": [
+    "AWBRY/Origin.md",
+    "AWBRY",
     "README.md"
   ]
 }
