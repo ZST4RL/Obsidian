@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWBRY/Origin.md",
+                "file": "required stuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Origin"
+              "title": "required stuff"
             }
           },
           {
@@ -179,6 +179,7 @@
   "active": "5e9d9cd71018eb37",
   "lastOpenFiles": [
     "AWBRY/Origin.md",
+    "required stuff.md",
     "AWBRY",
     "README.md"
   ]
