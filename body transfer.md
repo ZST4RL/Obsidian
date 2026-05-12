@@ -2,4 +2,4 @@
 tags:
   - special
 ---
-SO SHE'D MOVE HER [[brain]] TO A NEW BODY (and i')
+SO SHE'D MOVE HER [[brain]] TO A NEW BODY (and i'd teach her how to [[build bo]])
