@@ -1,0 +1,5 @@
+---
+tags:
+  - incomplete
+---
+i think for this one, i can use either 2 gens in one body, or one to charge while she's  and one for when shes awake
