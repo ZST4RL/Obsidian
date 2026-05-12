@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWBRY/origin 1/body/humanoid/organs/organs.md",
+                "file": "AWBRY/origin 1/body/humanoid/organs/brain/learn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "organs"
+              "title": "learn"
             }
           }
         ]
@@ -200,13 +200,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6721f85556a9760",
+  "active": "8d87b35c464e07d0",
   "lastOpenFiles": [
-    "AWBRY/origin 1/body/humanoid/humanoid.md",
+    "AWBRY/origin 1/body/humanoid/organs/brain/brain.md",
+    "AWBRY/origin 1/body/humanoid/organs/brain/learn.md",
+    "AWBRY/origin 1/body/humanoid/organs/brain",
+    "AWBRY/origin 1/body/humanoid/organs/brain/names.md",
     "AWBRY/origin 1/body/humanoid/organs/organs.md",
+    "AWBRY/origin 1/body/humanoid/humanoid.md",
     "AWBRY/required stuff.md",
     "AWBRY/origin 1/body/body.md",
-    "AWBRY/origin 1/body/NAMES.md",
     "AWBRY/origin 1/Origin.md",
     "AWBRY/origin 1/origin.md",
     "AWBRY/Origin",
@@ -218,7 +221,6 @@
     "AWBRY/origin 1/the assistant/wants",
     "AWBRY/origin 1/requirements/building materials",
     "AWBRY/origin 1/body/transformer",
-    "AWBRY/origin 1/body/train",
     "README.md",
     "conflict-files-obsidian-git.md"
   ]
