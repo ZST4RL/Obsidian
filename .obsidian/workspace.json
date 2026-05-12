@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWBRY/some ideas for her abilities.md",
+                "file": "body transfer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "some ideas for her abilities"
+              "title": "body transfer"
             }
           }
         ]
@@ -204,8 +204,9 @@
   },
   "active": "8d87b35c464e07d0",
   "lastOpenFiles": [
-    "AWBRY/origin 1/Origin.md",
     "AWBRY/some ideas for her abilities.md",
+    "body transfer.md",
+    "AWBRY/origin 1/Origin.md",
     "AWBRY/origin 1/body/humanoid/organs/heart/generator.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/subconscious.md",
     "AWBRY/origin 1/body/humanoid/organs/heart",
