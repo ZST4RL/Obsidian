@@ -6,6 +6,7 @@
       {
         "id": "9c562a64a5506660",
         "type": "tabs",
+        "dimension": 50.671140939597315,
         "children": [
           {
             "id": "8d87b35c464e07d0",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWBRY/origin 1/body/humanoid/organs/brain/learn.md",
+                "file": "AWBRY/origin 1/body/humanoid/organs/brain/learning/base knowledge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "learn"
+              "title": "base knowledge"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "1065ac30841ccfe3",
         "type": "tabs",
+        "dimension": 49.328859060402685,
         "children": [
           {
             "id": "fffa79984b2ed780",
@@ -202,15 +204,19 @@
   },
   "active": "8d87b35c464e07d0",
   "lastOpenFiles": [
+    "AWBRY/origin 1/body/humanoid/organs/brain/learning/learn.md",
+    "AWBRY/origin 1/body/humanoid/organs/brain/learning/memory bank.md",
+    "AWBRY/origin 1/body/humanoid/organs/brain/learning/base knowledge.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/brain.md",
-    "AWBRY/origin 1/body/humanoid/organs/brain/learn.md",
+    "AWBRY/origin 1/Origin.md",
+    "AWBRY/required stuff.md",
+    "battery.md",
+    "AWBRY/origin 1/body/humanoid/organs/brain/learning",
     "AWBRY/origin 1/body/humanoid/organs/brain",
     "AWBRY/origin 1/body/humanoid/organs/brain/names.md",
     "AWBRY/origin 1/body/humanoid/organs/organs.md",
     "AWBRY/origin 1/body/humanoid/humanoid.md",
-    "AWBRY/required stuff.md",
     "AWBRY/origin 1/body/body.md",
-    "AWBRY/origin 1/Origin.md",
     "AWBRY/origin 1/origin.md",
     "AWBRY/Origin",
     "AWBRY",
@@ -220,7 +226,6 @@
     "AWBRY/origin 1/body/humanoid/handz",
     "AWBRY/origin 1/the assistant/wants",
     "AWBRY/origin 1/requirements/building materials",
-    "AWBRY/origin 1/body/transformer",
     "README.md",
     "conflict-files-obsidian-git.md"
   ]
