@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e9d9cd71018eb37",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "7a90badf95bc8f63",
             "type": "leaf",
             "state": {
@@ -163,7 +153,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -173,7 +162,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "5e9d9cd71018eb37",
+  "active": "7a90badf95bc8f63",
   "lastOpenFiles": [
     "AWBRY/required stuff.md",
     "body.md",
