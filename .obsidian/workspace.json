@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWBRY/origin 1/body/humanoid/organs/heart/generator.md",
+                "file": "AWBRY/origin 1/body/humanoid/organs/brain/subconscious.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "generator"
+              "title": "subconscious"
             }
           }
         ]
@@ -202,11 +202,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6721f85556a9760",
+  "active": "8d87b35c464e07d0",
   "lastOpenFiles": [
+    "AWBRY/origin 1/body/humanoid/organs/heart/generator.md",
     "AWBRY/origin 1/body/humanoid/organs/heart",
     "AWBRY/required stuff.md",
-    "AWBRY/origin 1/body/humanoid/organs/heart/generator.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/subconscious.md",
     "conflict-files-obsidian-git.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/brain.md",
@@ -233,7 +233,6 @@
     "AWBRY/origin 1/body/humanoid/legz",
     "AWBRY/origin 1/body/humanoid/handz",
     "AWBRY/origin 1/the assistant/wants",
-    "AWBRY/origin 1/requirements/building materials",
     "README.md"
   ]
 }
