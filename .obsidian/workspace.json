@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWBRY/origin 1/body/glasses.md",
+                "file": "AWBRY/origin 1/body/humanoid/organs/organs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "glasses"
+              "title": "organs"
             }
           }
         ]
@@ -204,8 +204,8 @@
   },
   "active": "8d87b35c464e07d0",
   "lastOpenFiles": [
-    "AWBRY/origin 1/body/body.md",
     "AWBRY/origin 1/body/glasses.md",
+    "AWBRY/origin 1/body/body.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/learning/memory bank.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/learning/short term.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/learning/base knowledge.md",
