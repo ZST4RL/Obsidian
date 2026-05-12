@@ -202,8 +202,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fffa79984b2ed780",
+  "active": "8d87b35c464e07d0",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/subconscious.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/brain.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/names.md",
@@ -231,7 +232,6 @@
     "AWBRY/origin 1/body/humanoid/handz",
     "AWBRY/origin 1/the assistant/wants",
     "AWBRY/origin 1/requirements/building materials",
-    "README.md",
-    "conflict-files-obsidian-git.md"
+    "README.md"
   ]
 }
