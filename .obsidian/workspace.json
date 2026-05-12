@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "generator.md",
+                "file": "AWBRY/origin 1/body/humanoid/organs/heart/generator.md",
                 "mode": "source",
                 "source": false
               },
@@ -202,10 +202,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d87b35c464e07d0",
+  "active": "a6721f85556a9760",
   "lastOpenFiles": [
+    "AWBRY/origin 1/body/humanoid/organs/heart",
     "AWBRY/required stuff.md",
-    "generator.md",
+    "AWBRY/origin 1/body/humanoid/organs/heart/generator.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/subconscious.md",
     "conflict-files-obsidian-git.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/brain.md",
