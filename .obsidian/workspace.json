@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWBRY/ideas/body transfer.md",
+                "file": "AWBRY/ideas/some ideas for her abilities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "body transfer"
+              "title": "some ideas for her abilities"
             }
           }
         ]
@@ -202,11 +202,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6721f85556a9760",
+  "active": "8d87b35c464e07d0",
   "lastOpenFiles": [
+    "AWBRY/ideas/body transfer.md",
     "AWBRY/ideas",
     "AWBRY/ideas/some ideas for her abilities.md",
-    "AWBRY/ideas/body transfer.md",
     "AWBRY/origin 1/Origin.md",
     "AWBRY/origin 1/body/humanoid/organs/heart/generator.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/subconscious.md",
@@ -235,7 +235,6 @@
     "AWBRY/origin 1/body/humanoid/organs",
     "AWBRY/origin 1/body/humanoid/legz",
     "AWBRY/origin 1/body/humanoid/handz",
-    "AWBRY/origin 1/the assistant/wants",
     "README.md"
   ]
 }
