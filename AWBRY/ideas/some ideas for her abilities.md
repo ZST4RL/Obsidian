@@ -6,4 +6,4 @@ so like, what if, she could have some sort of [[body transfer]] ability, like Ke
 
 these will be placed into her [[subconscious]]
 
-i think i also want her to be able to [[build bodies]]
+i think i also want her to be able to [[build bodies]] for herself, to either control like [[drones]] or to transfer herself into
