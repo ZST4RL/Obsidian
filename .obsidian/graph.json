@@ -5,13 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#incomplete  ",
+      "query": "tag:#special  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 11731099
       }
     },
     {
@@ -22,10 +22,10 @@
       }
     },
     {
-      "query": "tag:#special  ",
+      "query": "tag:#incomplete  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 16711680
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224418,
+  "scale": 0.7132754626224416,
   "close": false
 }
