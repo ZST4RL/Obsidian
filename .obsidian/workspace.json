@@ -6,7 +6,6 @@
       {
         "id": "9c562a64a5506660",
         "type": "tabs",
-        "dimension": 50.671140939597315,
         "children": [
           {
             "id": "8d87b35c464e07d0",
@@ -25,12 +24,11 @@
         ]
       },
       {
-        "id": "1065ac30841ccfe3",
+        "id": "ba1837b1d16c114e",
         "type": "tabs",
-        "dimension": 49.328859060402685,
         "children": [
           {
-            "id": "fffa79984b2ed780",
+            "id": "3ff2b3234c7582bc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -202,14 +200,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fffa79984b2ed780",
+  "active": "3ff2b3234c7582bc",
   "lastOpenFiles": [
-    "AWBRY/origin 1/body/body.md",
+    "AWBRY/origin 1/Origin.md",
     "AWBRY/ideas/some ideas for her abilities.md",
+    "AWBRY/origin 1/body/body.md",
     "AWBRY/ideas/body transfer.md",
     "AWBRY/ideas/build bodies.md",
     "AWBRY/ideas",
-    "AWBRY/origin 1/Origin.md",
     "AWBRY/origin 1/body/humanoid/organs/heart/generator.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/subconscious.md",
     "AWBRY/origin 1/body/humanoid/organs/heart",
