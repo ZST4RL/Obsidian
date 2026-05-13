@@ -6,4 +6,4 @@ i remember how much ive wanted to build this little critter, and now i have thin
 
 i also have [[some ideas for her abilities]], and allat
 
-i like ass and tits
+i like ass and tits :O
