@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWBRY/origin 1/body/humanoid/organs/brain/learning/subconscious/subconscious.md",
+                "file": "AWBRY/origin 1/Origin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "subconscious"
+              "title": "Origin"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "my plan for her.md",
+                "file": "AWBRY/origin 1/Origin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for my plan for her"
+              "title": "Backlinks for Origin"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "my plan for her.md",
+                "file": "AWBRY/origin 1/Origin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from my plan for her"
+              "title": "Outgoing links from Origin"
             }
           },
           {
@@ -172,16 +172,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "my plan for her.md",
+                "file": "AWBRY/origin 1/Origin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of my plan for her"
+              "title": "Outline of Origin"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ff2b3234c7582bc",
+  "active": "8d87b35c464e07d0",
   "lastOpenFiles": [
     "AWBRY/origin 1/body/humanoid/organs/brain/learning/subconscious/subconscious.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/learning/subconscious/dreamscape.md",
