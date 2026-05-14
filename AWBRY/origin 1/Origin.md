@@ -7,9 +7,11 @@ i remember how much ive wanted to build this little critter, and now i have thin
 i also have [[some ideas for her abilities]], and allat
 
 my main inspirations for this project are...
-Caine
-AM
-Chappie
-Anaiya
+
+Caine (TADC)
+A.M. (IHNMAIMS)
+Chappie (movie)
+Anaiya (friend i miss)
 Cyberpunk 2077 (Rouge ai + Adam Smasher)
-and pro
+Detroit
+and probably others...
