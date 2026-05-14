@@ -11,4 +11,5 @@ Caine
 AM
 Chappie
 Anaiya
-Cyberpunk 2077 (Rougue )
+Cyberpunk 2077 (Rouge ai + Adam Smasher)
+and pro
