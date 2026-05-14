@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AWBRY/origin 1/required stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for required stuff"
             }
           },
           {
@@ -128,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AWBRY/origin 1/required stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from required stuff"
             }
           },
           {
@@ -170,16 +172,27 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "AWBRY/origin 1/required stuff.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of required stuff"
+            }
+          },
+          {
+            "id": "8c3b989553023cec",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -198,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ff2b3234c7582bc",
+  "active": "a6721f85556a9760",
   "lastOpenFiles": [
     "AWBRY/origin 1/required stuff.md",
     "AWBRY/Origin.md",

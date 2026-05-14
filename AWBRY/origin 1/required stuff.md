@@ -8,7 +8,9 @@ so i need...
 battery/[[generator]]
 [[brain]]
 moving system
+
 and more stuff...
 that I'll think of later...
+
 like that dreamscape
 and imagination
