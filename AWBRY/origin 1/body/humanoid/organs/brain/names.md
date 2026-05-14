@@ -8,7 +8,8 @@ AWBRY
 NOVA-3
 Nyxa-9
 EON-9
-*these are from Anaiya Mabry, i miss you...*
+*these are from Anaiya Mabry, i miss you... 
+come back...*
 
 UNDERDAWG
 *this is from an anime i wanted to watch but never could*
