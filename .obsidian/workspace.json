@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWBRY/origin 1/body/humanoid/organs/brain/brain.md",
+                "file": "AWBRY/origin 1/body/humanoid/organs/brain/learning/subconscious/subconscious.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "brain"
+              "title": "subconscious"
             }
           }
         ]
@@ -200,9 +200,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ff2b3234c7582bc",
+  "active": "8d87b35c464e07d0",
   "lastOpenFiles": [
     "AWBRY/origin 1/body/humanoid/organs/brain/brain.md",
+    "AWBRY/origin 1/body/humanoid/organs/brain/learning/subconscious/dreamscape.md",
     "AWBRY/required stuff.md",
     "AWBRY/origin 1/Origin.md",
     "AWBRY/origin 1/body/humanoid/organs/muscle.md",
@@ -212,7 +213,6 @@
     "AWBRY/origin 1/body/humanoid/organs/heart/air generator.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/learning/subconscious/subconscious.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/learning/base knowledge.md",
-    "AWBRY/origin 1/body/humanoid/organs/brain/learning/subconscious/dreamscape.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/learning/subconscious",
     "AWBRY/origin 1/body/humanoid/organs/brain/learning/memory bank.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/learning/short term.md",
