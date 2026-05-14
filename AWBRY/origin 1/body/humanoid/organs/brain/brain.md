@@ -9,4 +9,4 @@ i saw a guy on tt use [Godot](https://www.tiktok.com/t/ZTk3wRuUY/) to make a Cai
 
 i also will be using stuff to give her [[wants]] and [[needs]], which will be an interesting concept to figure out
 
-i also need to make her able to [[learn]] how to do things by seeing and allat, like seeing me fold my clothes and skip. but more elaboration on that in the "learn" sect
+i also need to make her able to [[learn]] how to do things by seeing and allat, like seeing me fold my clothes and skip. but more elaboration on that in the "learn" section.
