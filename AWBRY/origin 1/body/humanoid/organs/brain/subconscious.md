@@ -8,4 +8,4 @@ i can also use this to also give her inspo, dreams(while she's a[[sleep]]), goal
 
 i could also put some "unused" [[long term]] memories in here, as things she can recognize from her past, like a nostalgia kind of thing, that'll be cool
 
-these things that are moved from long
+these things that are moved from long term will have their own separate folder, which will be like muscle memory, or if she's in some sort of "a"
