@@ -17,3 +17,4 @@ and for her long term, those will include
 
 current tasks that're predicted to take over a day
 future plans
+things that she thought could inspire her for future projects
