@@ -6,7 +6,7 @@ the short term will hold what she sees in either a day or week, these will eithe
 
 this will be stored in a computing system or file system that's placed directly in her head, so it can be like actual short term stuff, this is for her tasks that she needs to complete, some will be moved to her [[long term]] after a week, or into her [[subconscious]] after a day if it's something she wasn't entirely focused on...
 
-so for her subconscious, that'll be..
+so for her subconscious, that'll be...
 
 familiar locations out of view
 faces that she wasn't focused on
