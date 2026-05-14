@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWBRY/origin 1/required stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for required stuff"
+              "title": "Backlinks"
             }
           },
           {
@@ -129,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWBRY/origin 1/required stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from required stuff"
+              "title": "Outgoing links"
             }
           },
           {
@@ -172,13 +170,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWBRY/origin 1/required stuff.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of required stuff"
+              "title": "Outline"
             }
           },
           {
@@ -211,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6721f85556a9760",
+  "active": "3ff2b3234c7582bc",
   "lastOpenFiles": [
     "AWBRY/origin 1/required stuff.md",
     "AWBRY/Origin.md",
