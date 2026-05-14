@@ -11,4 +11,9 @@ so for her subconscious, that'll be..
 familiar locations out of view
 faces that she wasn't focused on
 outfits she showed no interest in
-and 
+and more...
+
+and for her long term, those will include
+
+current tasks that're predicted to take over a day
+future plans
