@@ -8,7 +8,9 @@ AWBRY
 NOVA-3
 Nyxa-9
 EON-9
-*these are from Anaiya Mabry, i miss you... 
+An'iya
+*these are from Anaiya Mabry...
+i miss you... 
 come back...*
 
 UNDERDAWG
@@ -17,7 +19,7 @@ UNDERDAWG
 FAY
 *we know who this is...*
 
-sentry
-sentyr
+Sentry
+Sentyr
 MOONYL
 *i just wanted to put "y"s in these names*
