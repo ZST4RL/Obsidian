@@ -7,7 +7,11 @@ a pair of [[glasses]]
 a drone
 a rc car
 a [[humanoid]]
-a train
-and a spider
+
 
 if i think of any more, ill put them under here as "extras"
+
+actually, these others will be extra, i just want her to be humanoid
+
+a train
+and a spider
