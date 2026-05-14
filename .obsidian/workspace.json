@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWBRY/origin 1/Origin.md",
+                "file": "AWBRY/origin 1/body/humanoid/organs/brain/brain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Origin"
+              "title": "brain"
             }
           }
         ]
@@ -200,12 +200,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ff2b3234c7582bc",
+  "active": "8d87b35c464e07d0",
   "lastOpenFiles": [
+    "AWBRY/required stuff.md",
+    "AWBRY/origin 1/body/humanoid/organs/brain/brain.md",
     "AWBRY/origin 1/Origin.md",
     "AWBRY/origin 1/body/humanoid/organs/muscle.md",
     "AWBRY/origin 1/body/humanoid/humanoid.md",
-    "AWBRY/origin 1/body/humanoid/organs/brain/brain.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/names.md",
     "AWBRY/origin 1/body/humanoid/organs/heart/generator.md",
     "AWBRY/origin 1/body/humanoid/organs/heart/air generator.md",
@@ -217,7 +218,6 @@
     "AWBRY/origin 1/body/humanoid/organs/brain/learning/short term.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/learning/new knowledge.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/learning/learn.md",
-    "AWBRY/required stuff.md",
     "AWBRY/ideas/some ideas for her abilities.md",
     "AWBRY/origin 1/body/body.md",
     "AWBRY/ideas/body transfer.md",
