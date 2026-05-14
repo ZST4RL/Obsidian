@@ -12,4 +12,4 @@ these things that are moved from long term will have their own separate folder, 
 
 i want her dreams to be like a sort of "[[dreamscape]]"(yes i know this sounds stupid, but hear me out). im thinking of the "masterbuilder" scene from The Lego Movie, it'll be so cool to see her make stuff in there, but i wonder how exactly she'll do it...
 
-so i thought it'd be funny to make her colorblind, but now im actually taking that into account when making a "focus" thing to separate conscious for subconscious, i can have a circle of color be what she's currently looking directly at, while i have the rest be noir
+so i thought it'd be funny to make her colorblind, but now im actually taking that into account when making a "focus" thing to separate conscious for subconscious, i can have a circle of color be what she's currently looking directly at, while i have the rest be noir, which'll be cool to look at
