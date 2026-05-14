@@ -13,5 +13,6 @@ A.M. (IHNMAIMS)
 Chappie (movie)
 Anaiya (friend i miss)
 Cyberpunk 2077 (Rouge ai + Adam Smasher)
-Detroit
+Detroit: Become Human (game)
+Metal Sonic + Sage (Sonic Series)
 and probably others...
