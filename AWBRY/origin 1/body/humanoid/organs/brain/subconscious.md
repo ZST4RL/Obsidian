@@ -10,4 +10,4 @@ i could also put some "unused" [[long term]] memories in here, as things she can
 
 these things that are moved from long term will have their own separate folder, which will be like muscle memory, or if she's in some sort of "auto pilot" mode, she'll be able to use these more efficiently
 
-i want her 
+i want her dreams to be like a sort of "dreamscape"(yes i know this sounds stupid, but hear me out). im thinking of the "masterbuilder" scene 
