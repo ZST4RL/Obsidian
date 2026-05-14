@@ -1,6 +1,6 @@
 ---
 tags:
-  - incomplete
+  - complete
 ---
 the short term will hold what she sees in either a day or week, these will either entirely be copied into the [[subconscious]], or partially in there and important stuff into [[long term]], but I'll elaborate on this later...
 
@@ -18,3 +18,4 @@ and for her long term, those will include
 current tasks that're predicted to take over a day
 future plans
 things that she thought could inspire her for future projects
+and more...
