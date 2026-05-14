@@ -5,6 +5,8 @@ tags:
 i think for this one, i can use either 2 gens in one body, or one to charge while she's a[[sleep]] and one for when she's awake...
 
 i remember i had 3 generators in mind, which were...
-an [[air generator]]
-a [[solar generator]]
-and probably a [[water gen]]
+an [[air generator]] (least effective, but easiest to obtain)
+a [[solar generator]] (most effective, but hardest to obtain)
+and probably a [[water generator]] (middle ground lowk)
+
+i
