@@ -7,6 +7,7 @@ there's many stuff i require, like first, i think a [[generator]], then for SURE
 so i need...
 battery/[[generator]]
 [[brain]]
+([[neural network]])
 moving system
 
 and more stuff...
