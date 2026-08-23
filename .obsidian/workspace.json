@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWBRY/origin 1/required stuff.md",
+                "file": "AWBRY/origin 1/body/humanoid/organs/brain/learning/neural network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "required stuff"
+              "title": "neural network"
             }
           }
         ]
@@ -208,9 +208,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ff2b3234c7582bc",
+  "active": "a6721f85556a9760",
   "lastOpenFiles": [
     "AWBRY/origin 1/required stuff.md",
+    "AWBRY/origin 1/body/humanoid/organs/brain/learning/neural network.md",
     "AWBRY/Origin.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/learning/subconscious/subconscious.md",
     "AWBRY/origin 1/body/humanoid/organs/brain/learning/subconscious/dreamscape.md",
@@ -244,7 +245,6 @@
     "AWBRY",
     "origin/body/Untitled",
     "AWBRY/origin 1/body/humanoid/organs",
-    "AWBRY/origin 1/body/humanoid/legz",
-    "README.md"
+    "AWBRY/origin 1/body/humanoid/legz"
   ]
 }
