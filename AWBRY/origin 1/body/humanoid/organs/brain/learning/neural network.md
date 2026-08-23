@@ -6,4 +6,4 @@ this will help her learn maybe, i dont fully understand HOW it will, but it is u
 
 some stuff i've picked up on it so far are math, matrices, vertices, and i think there was one more thing, but i forgot. elaboration soon...
 
-how am i gonna make her 
+how am i gonna make her able to do this? well, the easy stuff would be from the [[base knowledge]], where
